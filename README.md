@@ -1,3 +1,3 @@
-# powerify
+# Visify
 
 Flutter Set-up:
